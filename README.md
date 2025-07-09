@@ -29,9 +29,6 @@
 | **Fake Live** | • App ([GitHub](https://github.com/MaxAstin/Fake-Live)) | ![image](https://github.com/user-attachments/assets/755f60c2-0867-4a04-9d92-9c29f9996417) | <a href="https://play.google.com/store/apps/details?id=com.bunbeauty.tiptoplive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="GooglePlay" width="400px"/></a> |
 | **KaiTester Intellij Plugin** | • Source code ([GitHub](https://github.com/MaxAstin/KaiTester)) | ![image](https://github.com/user-attachments/assets/cd13cb8a-7710-483c-8f77-81e473bcedbd) | [![Version](https://img.shields.io/jetbrains/plugin/v/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester)[![Downloads](https://img.shields.io/jetbrains/plugin/d/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester) |
 
-#### GitHub
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MaxAstin&show_icons=true&theme=tokyonight&count_private=true)
-
 #### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/max_astin?theme=dark&font=Baloo%202&ext=activity)
 
