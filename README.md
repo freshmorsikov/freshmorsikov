@@ -1,13 +1,14 @@
-
+<img width="1024" height="465" alt="KAI preview" src="https://github.com/user-attachments/assets/c37c3d75-662e-4e31-9b91-10d3177b9add" />
 <h1 align="center">Hello, I'm Valentin Freshmorsikov 
   <img src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" width="32"/>
 </h1>
 
 <br>
 
-- 🏎 &nbsp;I'm an `Android Developer` at [FxPro](https://www.fxpro.com/) 
+- 🏎 &nbsp;I'm an `Mobile Team Lead` at [FxPro](https://www.fxpro.com/)
+- 🤖 &nbsp;I actively use `AI` as an engineering tool to accelerate development, learning, and decision-making
 - 🏝 &nbsp;I'm using `Kotlin` as primary language 
-- 🚀 &nbsp;I am deeply passionate about [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) as a transformative cross-platform technology 
+- 🚀 &nbsp;I am deeply passionate about [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) as a transformative cross-platform technology
 - 📚 &nbsp;I mentor and conduct mock interviews to guide and support aspiring developers 
 
 <a href="https://www.linkedin.com/in/maxastin/">
@@ -25,9 +26,9 @@
 #### My own projects
 | Name    | Repository | Preview | Stores |
 | -------- | ------- | ------- | ------- |
-| **Food Delivery** | • Client app ([GitHub](https://github.com/xidealo/PapaKarlo)) <br> • Manager app ([GitHub](https://github.com/xidealo/FoodDeliveryAdmin)) <br> • Server-side app ([GitHub](https://github.com/MaxAstin/FoodDeliveryApi_v2)) | ![image](https://github.com/user-attachments/assets/75b2dcea-a1aa-4699-9d3a-4b66bd3a77d8) | <a href="https://play.google.com/store/apps/details?id=com.bunbeuaty.papakarlo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="GooglePlay" width="400px"/></a> <br> <a href="https://apps.apple.com/ru/app/%D0%BF%D0%B0%D0%BF%D0%B0-%D0%BA%D0%B0%D1%80%D0%BB%D0%BE/id6443966083"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" alt="AppStore" width="400px"/></a> |
-| **Fake Live** | • App ([GitHub](https://github.com/MaxAstin/Fake-Live)) | ![image](https://github.com/user-attachments/assets/755f60c2-0867-4a04-9d92-9c29f9996417) | <a href="https://play.google.com/store/apps/details?id=com.bunbeauty.tiptoplive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="GooglePlay" width="400px"/></a> |
-| **KaiTester Intellij Plugin** | • Source code ([GitHub](https://github.com/MaxAstin/KaiTester)) | ![image](https://github.com/user-attachments/assets/cd13cb8a-7710-483c-8f77-81e473bcedbd) | [![Version](https://img.shields.io/jetbrains/plugin/v/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester)[![Downloads](https://img.shields.io/jetbrains/plugin/d/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester) |
+| **Food Delivery** | • Client app ([GitHub](https://github.com/xidealo/PapaKarlo)) <br> • Manager app ([GitHub](https://github.com/xidealo/FoodDeliveryAdmin)) <br> • Server-side app ([GitHub](https://github.com/MaxAstin/FoodDeliveryApi_v2)) | ![image](https://github.com/user-attachments/assets/75b2dcea-a1aa-4699-9d3a-4b66bd3a77d8) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" width="400">](https://play.google.com/store/apps/details?id=com.bunbeuaty.papakarlo) <br> [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="AppStore" width="400">](https://apps.apple.com/ru/app/%D0%BF%D0%B0%D0%BF%D0%B0-%D0%BA%D0%B0%D1%80%D0%BB%D0%BE/id6443966083) |
+| **Fake Live** | • App ([GitHub](https://github.com/MaxAstin/Fake-Live)) | ![image](https://github.com/user-attachments/assets/755f60c2-0867-4a04-9d92-9c29f9996417) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" width="400">](https://play.google.com/store/apps/details?id=com.bunbeauty.tiptoplive) |
+| **KaiTester Intellij Plugin** | • Source code ([GitHub](https://github.com/MaxAstin/KaiTester)) | ![image](https://github.com/user-attachments/assets/0c779fde-16aa-4960-87b0-987e34134265) | [![Version](https://img.shields.io/jetbrains/plugin/v/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester)[![Downloads](https://img.shields.io/jetbrains/plugin/d/26141-kaitester.svg)](https://plugins.jetbrains.com/plugin/26141-kaitester) |
 
 #### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/max_astin?theme=dark&font=Baloo%202&ext=activity)
