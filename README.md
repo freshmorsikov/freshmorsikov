@@ -11,7 +11,7 @@
 - 🚀 &nbsp;I am deeply passionate about [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) as a transformative cross-platform technology
 - 📚 &nbsp;I mentor and conduct mock interviews to guide and support aspiring developers 
 
-<a href="https://www.linkedin.com/in/maxastin/">
+<a href="https://www.linkedin.com/in/freshmorsikov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 &nbsp;
@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack overflow Badge"/>
 </a>
 &nbsp;
-<a href="https://github.com/MaxAstin">
-  <img src="https://komarev.com/ghpvc/?username=MaxAstin&style=for-the-badge&color=blue" alt="Profile views Badge"/>
+<a href="https://github.com/freshmorsikov">
+  <img src="https://komarev.com/ghpvc/?username=freshmorsikov&style=for-the-badge&color=blue" alt="Profile views Badge"/>
 </a>
 
 #### My own projects
