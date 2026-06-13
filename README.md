@@ -1,4 +1,4 @@
-<img width="1024" height="465" alt="KAI preview" src="https://github.com/user-attachments/assets/c37c3d75-662e-4e31-9b91-10d3177b9add" />
+
 <h1 align="center">Hello, I'm Valentin Freshmorsikov 
   <img src="https://www.pngplay.com/wp-content/uploads/9/Android-Transparent-Free-PNG.png" width="32"/>
 </h1>
